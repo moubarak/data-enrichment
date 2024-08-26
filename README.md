@@ -17,7 +17,7 @@ The base is a text editor that looks and feels like Apple Notes with the followi
 
 ## Preview
 
-![Simulator Screen Recording - iPhone 15 - 2024-06-14 at 17 13 04](https://github.com/moubarak/text-editor/assets/885084/ef3c79b8-1626-43ba-9d21-aa9bf9bbd7f3)
+![Simulator Screen Recording - iPhone 15 - 2024-08-27 at 02 07 46](https://github.com/user-attachments/assets/9fec46d4-6277-4ee1-af69-e50e56070885)
 
 
 ## Note
